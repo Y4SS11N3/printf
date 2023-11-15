@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _printf - function that selects the correct function to exhibit.
- * @format: identifier to look for.
- * Return: the length of the string.
+ * _printf - Custom printf function for formatted output.
+ * @format: Format string with specifiers (%s, %c, %%, %i, %d, etc.).
+ * Return: Count of characters printed (excluding null byte).
  */
 int _printf(const char * const format, ...)
 {
