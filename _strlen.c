@@ -18,7 +18,7 @@ int _strlen(char *s)
 /**
  * _strlenc - Determines the length of a constant character string.
  * @s: Constant character string to evaluate.
- * Return: The number of characters in the string as an integer
+ * Return: The number of characters in the string as an integer.
  */
 int _strlenc(const char *s)
 {
