@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _printf - Custom printf function for formatted output.
+ * _printf - Custom printf function for formatted output
  * @format: Format string with specifiers (%s, %c, %%, %i, %d, etc.).
  * Return: Count of characters printed (excluding null byte).
  */
