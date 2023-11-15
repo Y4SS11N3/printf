@@ -3,7 +3,7 @@
 /**
  * prntROT13 - Encodes and prints a string using ROT13 cipher.
  * @args: Variable argument list with the string for ROT13 conversion.
- * Return: Total number of characters printed after conversion.
+ * Return: Total number of characters printed after conversion
  */
 int prntROT13(va_list args)
 {
